@@ -3,8 +3,8 @@
         {
             "domain": "",
             "param": {
-                "email": "",
-                "passwd": "",
+                "email": "pughelidagxy.w.16.20@gmail.com",
+                "passwd": "bugong123",
                 "login": "/auth/login",
                 "checkin": "/user/checkin"
             }
