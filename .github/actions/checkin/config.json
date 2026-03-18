@@ -8,6 +8,15 @@
                 "login": "/auth/login",
                 "checkin": "/user/checkin"
             }
+        },
+        {
+            "domain": "https://portal.cark.ink/user",
+            "param": {
+                "email": "15593947.4.0.z@gmail.com",
+                "passwd": "bugong12345",
+                "login": "/auth/login",
+                "checkin": "/user/checkin"
+            }
         }
     ]
 }
