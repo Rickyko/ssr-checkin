@@ -1,7 +1,7 @@
 {
     "domains": [
         {
-            "domain": "https://portal.cark.ink/user",
+            "domain": "https://portal.dray.ink/user",
             "param": {
                 "email": "1559394740.z@gmail.com",
                 "passwd": "bugong123",
@@ -10,7 +10,7 @@
             }
         },
         {
-            "domain": "https://portal.cark.ink/user",
+            "domain": "https://portal.dray.ink/user",
             "param": {
                 "email": "15593947.4.0.z@gmail.com",
                 "passwd": "bugong12345",
